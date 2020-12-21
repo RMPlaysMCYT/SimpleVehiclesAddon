@@ -1,7 +1,6 @@
 <div>
   <a href="https://link-to.net/117519/SimpleVehiclesv134Res">
     <h4 align="center">Download the latest version (Resources)</h4>
-  </a>
   <a href="https://link-to.net/117519/SimpleVehiclesv134Beh">
     <h4 align="center">Download the latest version (Behavior)</h4>
   </a>
