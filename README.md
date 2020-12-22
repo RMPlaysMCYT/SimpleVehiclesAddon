@@ -1,6 +1,6 @@
 <h1 align="center">Simple Vehicles Addon</h1>
 <p align="center">
-  <img width="2448" height="559" src="https://github.com/RMPlaysMCYT/SimpleVehiclesAddon/raw/main/images/Title_v2.png">
+  <img width="2448" height="259" src="https://github.com/RMPlaysMCYT/SimpleVehiclesAddon/raw/main/images/Title_v2.png">
   </a>
 </p>
 
