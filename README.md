@@ -1,3 +1,9 @@
+<h1 align="center">Simple Vehicles Addon</h1>
+<p align="center">
+  <img width="256" height="256" src="https://raw.githubusercontent.com/RMPlaysMCYT/SimpleVehiclesAddon/raw/main/images/Title_v2.png">
+  </a>
+</p>
+
 <div>
   <a href="https://link-to.net/117519/SimpleVehiclesv134Res">
     <h4 align="center">Download the latest version (Resources)</h4>
