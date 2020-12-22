@@ -31,3 +31,11 @@ And Right Now Here It is You can Download The Older versions Too If you like it
     <h4 align="center">Download Version 1.1.0</h4>
   </a>
 </div>
+
+# Features Version 1.3.4
+- There are already 44 Vehicles 
+- Recommended for Role-Play Maps
+
+# Upcoming Features In the Future That we working on it right now
+- Custom Riding Animations
+- Craftable Vehicles
