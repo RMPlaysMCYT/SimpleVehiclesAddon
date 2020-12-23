@@ -3,9 +3,7 @@
   <img width="2448" height="259" src="https://github.com/RMPlaysMCYT/SimpleVehiclesAddon/raw/main/images/Title_v2.png">
 </p>
 
-<div>
-  # Try It Now!!!!
-</div>
+# Try It Now!!!!
 
 <div>
   <a href="https://link-to.net/117519/SimpleVehiclesv134Res">
